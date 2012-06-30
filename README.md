@@ -59,4 +59,4 @@ Simple checkout the source code into Sublime Text's packages directory. The loca
 
 ##License
 
-[WTFPL, Version 2](http://www.gnu.org/licenses/license-list.html#WTFPL)
+Released under [WTFPL, Version 2](https://raw.github.com/matthewrobertson/ERB-Sublime-Snippets/master/LICENSE.txt)
