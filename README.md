@@ -1,7 +1,7 @@
 ERB-Sublime-Snippets
 ====================
 
-A collection of sublime text snippets useful for writing erb
+A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for writing [ERB](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html)
 
 ##Installation
 
