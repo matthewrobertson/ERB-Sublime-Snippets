@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<%= $0 %>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pe</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee</scope>
+	<description>output ERB tags</description>
+</snippet>

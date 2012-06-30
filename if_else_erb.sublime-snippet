@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<% if $1 %>
+	$2
+<% else %>
+	$0
+<% end %>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ife</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee</scope>
+	<description>ERB if / else / end</description>
+</snippet>
