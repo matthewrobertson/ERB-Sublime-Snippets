@@ -16,4 +16,9 @@ A collection of sublime text snippets useful for writing erb
     <td>__er__</td>
     <td>`<%  %>`</td>
   </tr>
+  <tr>
+    <td>print ERB tags</td>
+    <td>__pe__</td>
+    <td>`<%=  %>`</td>
+  </tr>
 <table>
