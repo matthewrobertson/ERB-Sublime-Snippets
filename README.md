@@ -3,6 +3,25 @@ ERB-Sublime-Snippets
 
 A collection of sublime text snippets useful for writing erb
 
+##Installation
+
+Simple checkout the source code into Sublime Text's packages directory. The location is system specific:
+
+### For OSX
+
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+
+### For Windows
+
+    $ cd %APPDATA%/Sublime Text 2/Packages/
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+
+### For Linux
+
+    $ cd ~/.Sublime Text 2/Packages/
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+
 ##Snippets and Bindings
 
 <table>
@@ -37,3 +56,7 @@ A collection of sublime text snippets useful for writing erb
     <td>`<% end %>`</td>
   </tr>
 <table>
+
+##License
+
+[WTFPL, Version 2](http://www.gnu.org/licenses/license-list.html#WTFPL)
