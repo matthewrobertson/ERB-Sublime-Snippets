@@ -26,4 +26,9 @@ A collection of sublime text snippets useful for writing erb
     <td>__if__</td>
     <td>`<% if  %>...<% end %>`</td>
   </tr>
+  <tr>
+    <td>`if` / `else` block</td>
+    <td>__ife__</td>
+    <td>`<% if  %>...<% else %>...<% end %>`</td>
+  </tr>
 <table>
