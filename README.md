@@ -21,4 +21,9 @@ A collection of sublime text snippets useful for writing erb
     <td>__pe__</td>
     <td>`<%=  %>`</td>
   </tr>
+  <tr>
+    <td>`if` block</td>
+    <td>__if__</td>
+    <td>`<% if  %>...<% end %>`</td>
+  </tr>
 <table>
