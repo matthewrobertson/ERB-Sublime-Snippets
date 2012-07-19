@@ -5,7 +5,7 @@ A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for 
 
 ##Installation
 
-Simple checkout the source code into Sublime Text's packages directory. The location is system specific:
+Simply checkout the source code into Sublime Text's packages directory. The location is system specific:
 
 ### For OSX
 
