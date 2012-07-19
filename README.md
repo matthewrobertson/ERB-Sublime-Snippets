@@ -55,6 +55,11 @@ Simple checkout the source code into Sublime Text's packages directory. The loca
     <td>__end__</td>
     <td>`<% end %>`</td>
   </tr>
+  <tr>
+    <td>`link_to` helper</td>
+    <td>__lt__</td>
+    <td>`<%= link_to ..., ... %>`</td>
+  </tr>
 <table>
 
 ##License
