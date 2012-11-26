@@ -62,6 +62,10 @@ Simply checkout the source code into Sublime Text's packages directory. The loca
   </tr>
 <table>
 
+##Questions, Comments, Concerns?
+
+Feel free to submit a pull request if you have any snippets you would like to add. If you have any problems or suggestions you can contact me [on twitter](https://twitter.com/mattdrobertson).
+
 ##License
 
 Released under [WTFPL, Version 2](https://raw.github.com/matthewrobertson/ERB-Sublime-Snippets/master/LICENSE.txt)
