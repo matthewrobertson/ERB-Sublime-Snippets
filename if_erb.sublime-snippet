@@ -4,9 +4,7 @@
 	$0
 <% end %>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>if</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee</scope>
+	<scope>text.html.ruby</scope>
 	<description>ERB if / end</description>
 </snippet>
