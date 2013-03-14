@@ -56,6 +56,16 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>`<% if  %>...<% else %>...<% end %>`</td>
   </tr>
   <tr>
+    <td>`else` tag</td>
+    <td>__else__</td>
+    <td>`<% else %>`</td>
+  </tr>
+  <tr>
+    <td>`elsif` tag</td>
+    <td>__elsif__</td>
+    <td>`<% elsif %>`</td>
+  </tr>
+  <tr>
     <td>`end` block</td>
     <td>__end__</td>
     <td>`<% end %>`</td>
