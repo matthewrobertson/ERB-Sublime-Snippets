@@ -6,5 +6,5 @@
 	<tabTrigger>end</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee</scope>
-	<description><% end %></description>
+	<description>ERB end tag</description>
 </snippet>
