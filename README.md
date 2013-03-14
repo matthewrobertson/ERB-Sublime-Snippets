@@ -41,6 +41,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>`<%=  %>`</td>
   </tr>
   <tr>
+    <td>print ERB comment</td>
+    <td>__pc__</td>
+    <td>`<%#  %>`</td>
+  </tr>
+  <tr>
     <td>`if` block</td>
     <td>__if__</td>
     <td>`<% if  %>...<% end %>`</td>
