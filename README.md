@@ -10,17 +10,17 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
 ### For OSX
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
 
 ### For Windows
 
     $ cd %APPDATA%/Sublime Text 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
 
 ### For Linux
 
     $ cd ~/.Sublime Text 2/Packages/
-    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snipptes
+    $ git clone git://github.com/matthewrobertson/ERB-Sublime-Snippets.git ERB_Snippets
 
 ##Snippets and Bindings
 
