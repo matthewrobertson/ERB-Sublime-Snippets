@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<%= form_for(${1:@things}) do |${2:@f}| %>
+  <content><![CDATA[<%= form_for(${1:@things}) do |${2:f}| %>
 		$3
 <% end %>
   ]]></content>
