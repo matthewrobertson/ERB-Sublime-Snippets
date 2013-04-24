@@ -75,6 +75,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>__lt__</td>
     <td>`<%= link_to ..., ... %>`</td>
   </tr>
+  <tr>
+    <td>`form_for` helper</td>
+    <td>__form__</td>
+    <td>`<%= form_for(@ ) do |f| %> ... <% end %>`</td>
+  </tr>
 <table>
 
 ##Questions, Comments, Concerns?
