@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[<%= form_for(${1:@things}) do |${2:@f}| %>
+		$3
+<% end %>
+  ]]></content>
+  <tabTrigger>form</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>output form_for ERB</description>
+</snippet>
