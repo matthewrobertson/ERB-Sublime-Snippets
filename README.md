@@ -80,6 +80,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>__form__</td>
     <td>`<%= form_for(@ ) do |f| %> ... <% end %>`</td>
   </tr>
+  <tr>
+    <td>`t()` helper</td>
+    <td>__t__</td>
+    <td>`<%= t('@') %>`</td>
+  </tr>
 <table>
 
 ##Questions, Comments, Concerns?
