@@ -66,6 +66,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>`<% elsif %>`</td>
   </tr>
   <tr>
+    <td>`unless` block</td>
+    <td>__unless__</td>
+    <td>`<% unless  %>...<% end %>`</td>
+  </tr>
+  <tr>
     <td>`end` block</td>
     <td>__end__</td>
     <td>`<% end %>`</td>
