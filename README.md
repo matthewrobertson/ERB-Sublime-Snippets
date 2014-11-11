@@ -37,12 +37,12 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
   </tr>
   <tr>
     <td>print ERB tags</td>
-    <td>__pe__</td>
+    <td>__pe__ or __erp__</td>
     <td>`<%=  %>`</td>
   </tr>
   <tr>
     <td>print ERB comment</td>
-    <td>__pc__</td>
+    <td>__pc__ or __erc__</td>
     <td>`<%#  %>`</td>
   </tr>
   <tr>
