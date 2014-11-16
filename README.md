@@ -101,6 +101,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>`<%= link_to ..., ... %>`</td>
   </tr>
   <tr>
+    <td>`each` helper</td>
+    <td>__each__</td>
+    <td>`<% @things.each do |thing| %> ... <% end %>`</td>
+  </tr>
+  <tr>
     <td>`form_for` helper</td>
     <td>__form__</td>
     <td>`<%= form_for(@ ) do |f| %> ... <% end %>`</td>
