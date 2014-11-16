@@ -112,18 +112,18 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
   </tr>
 <table>
 
-##Resolve conflicted tab trigger
+##Resolve conflicting tab trigger
 
-Some tab trigger can be conflicted to others, such as built-in Rails package or [Rails Developer Snippets](https://github.com/j10io/railsdev-sublime-snippets). You may want to disable unwanted snippets.
+It is possible for the snippets in this package to conflict with other Sublime text plugins, such as the built-in Rails package or [Rails Developer Snippets](https://github.com/j10io/railsdev-sublime-snippets). You may want to disable unwanted snippets.
 
 ### For Sublime Text 2
 
-Delete unwanted snippet file from `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/<PackageName>/`
+Delete unwanted snippet files from `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/<PackageName>/`
 
 ### For Sublime Text 3
 
-1. Install [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) Package
-2. Open unwanted sinppets with `PackageResourceViewer: Open Resource` command and comment it out
+1. Install the [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) Package
+2. Open unwanted snippets with `PackageResourceViewer: Open Resource` command and comment it out
 
 ##Questions, Comments, Concerns?
 
