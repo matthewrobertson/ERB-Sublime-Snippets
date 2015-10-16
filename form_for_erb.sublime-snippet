@@ -3,7 +3,7 @@
 		$3
 <% end %>
   ]]></content>
-  <tabTrigger>form</tabTrigger>
+  <tabTrigger>ff</tabTrigger>
   <scope>text.html.ruby</scope>
   <description>output form_for ERB</description>
 </snippet>
