@@ -76,6 +76,11 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     <td>`<% end %>`</td>
   </tr>
   <tr>
+    <td>`image_tag` helper</td>
+    <td>__it__</td>
+    <td>`<%= image_tag ..., ... %>`</td>
+  </tr>
+  <tr>
     <td>`submit_tag` helper</td>
     <td>__st__</td>
     <td>`<%= submit_tag ..., ... %>`</td>
