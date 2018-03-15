@@ -5,6 +5,6 @@
 <% end %>
 ]]></content>
 	<tabTrigger>if</tabTrigger>
-	<scope>text.html.ruby,source.js</scope>
+	<scope>text.html.ruby</scope>
 	<description>ERB if / end</description>
 </snippet>
