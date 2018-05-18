@@ -44,7 +44,7 @@ print ERB comment | __pc__ | `<%#  %>`
 `form_for` helper | __ff__ | `<%= form_for(@ ) do |f| %> ... <% end %>`
 `t()` helper | __t__ | `<%= t('@') %>`
 
-##Resolve conflicting tab trigger
+## Resolve conflicting tab trigger
 
 It is possible for the snippets in this package to conflict with other Sublime text plugins, such as the built-in Rails package or [Rails Developer Snippets](https://github.com/j10io/railsdev-sublime-snippets). You may want to disable unwanted snippets.
 
@@ -61,6 +61,6 @@ Delete unwanted snippet files from `~/Library/Application\ Support/Sublime\ Text
 
 Feel free to submit a pull request with any snippets you would like to add to the project. If you have any problems or suggestions you can contact me [on twitter](https://twitter.com/mattdrobertson).
 
-##License
+## License
 
 Released under [WTFPL, Version 2](https://raw.github.com/matthewrobertson/ERB-Sublime-Snippets/master/LICENSE.txt)
