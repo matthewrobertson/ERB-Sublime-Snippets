@@ -35,6 +35,7 @@ print ERB comment | __pc__ | `<%#  %>`
 `elsif` tag | __elsif__ | `<% elsif %>`
 `unless` block | __unless__ | `<% unless  %>...<% end %>`
 `end` block | __end__ | `<% end %>`
+`image_tag` helper | __it__ | `<%= image_tag ..., ... %>`
 `submit_tag` helper | __st__ | `<%= submit_tag ..., ... %>`
 `text_field_tag` helper | __tft__ | `<%= text_field_tag ..., ... %>`
 `password_field_tag` helper | __pft__ | `<%= password_field_tag ..., ... %>`
