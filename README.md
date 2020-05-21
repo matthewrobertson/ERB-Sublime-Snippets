@@ -36,19 +36,19 @@ print ERB comment | __pc__ | `<%#  %>`
 `unless` block | __unless__ | `<% unless  %>...<% end %>`
 `end` block | __end__ | `<% end %>`
 `image_tag` helper | __it__ | `<%= image_tag ..., ... %>`
-`cl_image_tag` helper | __cli__ | `<%= cl_image_tag 'path' {*options*} %>`
+`cl_image_tag` helper | __cli__ | `<%= cl_image_tag 'path' {`*`option`*`} %>`
 `submit_tag` helper | __st__ | `<%= submit_tag ..., ... %>`
 `text_field_tag` helper | __tft__ | `<%= text_field_tag ..., ... %>`
 `password_field_tag` helper | __pft__ | `<%= password_field_tag ..., ... %>`
 `label_tag` helper | __lblt__ | `<%= label_tag ..., ... %>`
 `link_to` helper | __lt__ | `<%= link_to ..., ... %>`
-`each` helper | __each__ | `<% *@things*.each do |*thing*| %> ... <% end %>`
-`form_for` helper | __ff__ | `<%= form_for(@*model* ) do |f| %> ... <% end %>`
-`simple_form_for` helper | __sf__ | `<%= simple_form_for(@ ) do |f| %> ... <% end %>`
+`each` helper | __each__ | `<% `*`@things`*`.each do |`*`thing`*`| %> ... <% end %>`
+`form_for` helper | __ff__ | `<%= form_for(`*`@model`*`) do |f| %> ... <% end %>`
+`simple_form_for` helper | __sf__ | `<%= simple_form_for(`*`@model`*`) do |f| %> ... <% end %>`
 `f.input` helper | __fi__ | `<%= f.input ... %>`
 `f.button` helper | __fs__ | `<%= f.button :input ... %>`
 `time_ago_in_words` helper | __tw__ | `<%= time_ago_in_words(...) %>`
-`t()` helper | __t__ | `<%= t('@*model*') %>`
+`t()` helper | __t__ | `<%= t('`*`@model`*`') %>`
 
 ## Resolve conflicting tab trigger
 
