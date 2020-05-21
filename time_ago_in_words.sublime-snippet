@@ -2,5 +2,5 @@
   <content><![CDATA[<%= time_ago_in_words($1) %>]]></content>
   <tabTrigger>tw</tabTrigger>
   <scope>text.html.ruby</scope>
-  <description>insert a rails view cloudinary cl_image_tag helper</description>
+  <description>insert a rails view time_ago_in_words helper</description>
 </snippet>
