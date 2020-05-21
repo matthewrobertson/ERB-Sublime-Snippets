@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<%= cl_image_tag '${1:photo_path}' {${2:options}}%>]]></content>
+  <content><![CDATA[<%= cl_image_tag '${1:photo_path}' {${2:options?}} %>]]></content>
   <tabTrigger>cli</tabTrigger>
   <scope>text.html.ruby</scope>
   <description>insert a rails view cloudinary cl_image_tag helper</description>
