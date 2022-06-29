@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[<% else %>]]></content>
     <tabTrigger>else</tabTrigger>
-    <scope>text.html.ruby</scope>
+    <scope>text.html.rails</scope>
     <description>ERB else tag</description>
 </snippet>

@@ -5,6 +5,6 @@
 <% end %>
 ]]></content>
 	<tabTrigger>each</tabTrigger>
-	<scope>text.html.ruby</scope>
+	<scope>text.html.rails</scope>
 	<description>ERB each block</description>
 </snippet>

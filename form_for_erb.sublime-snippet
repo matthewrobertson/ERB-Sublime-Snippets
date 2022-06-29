@@ -4,6 +4,6 @@
 <% end %>
   ]]></content>
   <tabTrigger>ff</tabTrigger>
-  <scope>text.html.ruby</scope>
+  <scope>text.html.rails</scope>
   <description>output form_for ERB</description>
 </snippet>

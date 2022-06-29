@@ -5,6 +5,6 @@
 <% end %>
 ]]></content>
 	<tabTrigger>unless</tabTrigger>
-	<scope>text.html.ruby</scope>
+	<scope>text.html.rails</scope>
 	<description>ERB unless / end</description>
 </snippet>
