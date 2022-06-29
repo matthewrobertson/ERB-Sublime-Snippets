@@ -7,6 +7,6 @@
 <% end %>
 ]]></content>
 	<tabTrigger>ife</tabTrigger>
-	<scope>text.html.ruby</scope>
+	<scope>text.html.rails</scope>
 	<description>ERB if / else / end</description>
 </snippet>
