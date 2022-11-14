@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[<%= f.button :submit $1 %>]]></content>
   <tabTrigger>fs</tabTrigger>
-  <scope>text.html.ruby</scope>
+  <scope>text.html.rails</scope>
   <description>insert submit button for simple_form_for</description>
 </snippet>

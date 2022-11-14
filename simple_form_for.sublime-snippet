@@ -4,6 +4,6 @@
 <% end %>
   ]]></content>
   <tabTrigger>sf</tabTrigger>
-  <scope>text.html.ruby</scope>
+  <scope>text.html.rails</scope>
   <description>insert a simple_form_for frame</description>
 </snippet>
