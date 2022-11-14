@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[<%= f.input $1 %>]]></content>
   <tabTrigger>fi</tabTrigger>
-  <scope>text.html.ruby</scope>
+  <scope>text.html.rails</scope>
   <description>insert input for simple_form_for</description>
 </snippet>
